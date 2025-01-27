@@ -23,7 +23,7 @@ rootfs_path="./rootfs"
 fwdriver_path="./core/root/lib"
 
 # Kernel & Firmware Repository
-repos="https://github.com/armarchindo/ULO-repository"
+repos="https://github.com/muslimsyahrir/ULO-repository"
 
 # Custom ROOTFS Repository on releases
 rootfs_repo="armarchindo/rootfs-openwrt"
